@@ -17,4 +17,4 @@
 
 `webpack built c0fa476b1e6da8938595 in 5108ms`
 
-и вы можете перейдите по адресу http://localhost:3000
+и вы можете перейти по адресу http://localhost:3000
