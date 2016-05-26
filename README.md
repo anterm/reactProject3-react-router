@@ -13,7 +13,8 @@
 1. `npm install`
 1. `npm start`
 
-После того, как в консоле появится 
-`Listening at http://localhost:3000`
+После того, как webpack соберёт проект, появится надпись похожая на:
+
 `webpack built c0fa476b1e6da8938595 in 5108ms`
-перейдите по адресу http://localhost:3000
+
+и вы можете перейдите по адресу http://localhost:3000
